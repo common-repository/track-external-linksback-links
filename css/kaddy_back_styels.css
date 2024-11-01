@@ -1,0 +1,165 @@
+.backlink_addcntr
+{
+	float: none;
+	font-size: 13px;
+	margin: 0 auto;
+	width: 100%;
+}
+.backlink_snglfld_wrap
+{
+	width: 100%;
+	float: left;
+	padding: 30px 0 10px 0;
+	margin: 0;
+}
+.backlink_sngl_cnt
+{
+	width: 94%;
+	float: left;
+	padding: 5px 0 10px 0;
+	margin: 0;
+}
+.backlink_txtcnt
+{
+	width: 18%;
+	float: left;
+}
+.backlink_fldcnt
+{
+	width: 80%;
+	float: left;
+}
+.backlink_fldcnt .backlink_inrfldcnt
+{
+	width: 200px;
+	float: left;
+	margin-bottom: 10px;
+}
+.backlink_fldcnt .backlink_inrfldcnt input
+{
+
+}
+.backlink_fldcnt .backlink_inrfldcnt span
+{
+ 	margin-left: 10px;
+}
+.backlink_fldcnt .backlink_inrfldcnt .inrtglfld
+{
+	width: 100%;
+	float: left;
+	margin: 10px 0 0;
+	display: none;
+}
+.backlink_fldcnt .backlink_inrfldcnt .inrtglfld select
+{
+	width: 160px;
+	float: left;
+}
+.backlink_fldcnt .backlink_inrfldcnt .inrtglfld input[type="text"]
+{
+	width: 140px;
+	float: left;
+	margin-left: 10px;
+	height: 25px;
+}
+.backlink_fldcnt .backlink_inrfldcnt.scnd
+{
+	width: 700px;
+}
+.backlink_fldcnt input[type="text"]
+{
+	background: none repeat scroll 0 0 #ffffff;
+	border: 1px solid #cdcdcd;
+	color: #000000;
+	margin: 0;
+	padding: 0;
+	height: 32px;
+	width: 300px;
+	float: left;
+}
+.backlink_fldcnt input[readonly]
+{
+	background-color: #eeeeee !important;
+}
+.backlink_fldcnt select
+{
+	width: 300px;
+}
+.wp-list-table
+{
+	border: 1px solid #e5e5e5;
+	width: 100%;
+	margin: 0;
+}
+.wp-list-table tr
+{
+	word-wrap: break-word;
+}
+.wp-list-table tr th
+{
+	color: #555555;
+	font-size: 14px;
+	text-align: left;
+	line-height: 16px;
+	padding: 8px 10px;
+}
+.wp-list-table tr td
+{
+	
+}
+.attend_hdng
+{
+	width: 100%;
+	float: left;
+	padding: 15px 0;
+	font-size: 18px;
+}
+.table_wpr
+{
+	width: 95%;
+	float: left;
+	border: 1px solid #000000;
+}
+.table_wpr .snglrw
+{
+	width: 100%;
+	float: left;
+	border-bottom: 1px solid #000000;
+}
+.table_wpr .snglrw .snglclm
+{
+	width: 25%;
+	float: left;
+	padding: 10px 0;
+	text-align: center;
+	word-wrap: break-word;
+}
+.attend_hdng input[type="text"]
+{
+    background: none repeat scroll 0 0 #FFFFFF;
+    border: 1px solid #CDCDCD;
+    color: #000000;
+    float: left;
+    height: 26px;
+    margin: 0;
+    padding: 0;
+    width: 150px;
+	font-size: 14px;
+}
+.attend_hdng select
+{
+	float: left;
+	margin-left: 20px;
+	font-size: 14px;
+}
+.attend_hdng input[type="submit"]
+{
+	
+}
+.table_wpr .snglclm_new {
+    float: left;
+    padding: 10px 0;
+    text-align: center;
+    width: 12%;
+    word-wrap: break-word;
+}
